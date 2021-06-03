@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mystery of general redemption by the Lady Eleanor.</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36411</idno><idno type="EEBO-CITATION">11081061</idno>
+  <idno type="VID">46298</idno>
+  <idno type="EEBO-PROQUEST">2240866694</idno>
+  
+            <idno type="STC">Wing D1996A</idno>
+            <idno type="STC">ESTC R29371</idno>
+            <idno type="OCLC">11081061</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46298)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1422:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mystery of general redemption by the Lady Eleanor.</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bound and filmed with D1997 following.</note>
+                  <note>Imperfect: pages stained and faded, with loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46298:1"/>
+            <pb facs="tcp:46298:1"/>
+            <p>THE MYSTERY OF <hi>General Redemption.</hi>
+            </p>
+            <p>By the Lady <hi>ELEANOR.</hi>
+            </p>
+            <q>
+               <bibl>1 <hi>Pet. 1.13.</hi>
+               </bibl> Wherefore gird up the loyns of your mindes, &amp;c. and hope to the end, for the grace that is to be brought unto you in the revelation of Jesus Christ.</q>
+            <p>Printed in the Year, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46298:2"/>
+            <pb n="3" facs="tcp:46298:2"/>
+            <head>The Mystery of general Redemption.</head>
+            <p>ANd the Grave and Hell, one and the same word serving for both in the Native Tongue or Lan<g ref="char:EOLhyphen"/>guage, as observed both by Prophets and Apostles, between which, and the word Sepulchre or Monu<g ref="char:EOLhyphen"/>ments, distinguishes and puts a dif<g ref="char:EOLhyphen"/>ference: So that doubtless of the Resurrection may as well doubt, as out of Hell believe or hold is no re<g ref="char:EOLhyphen"/>demption; whereof the Prophet <hi>Ho<g ref="char:EOLhyphen"/>sea</hi> thus, who affirms, 13. <hi>I will ransom thee out of Hell;</hi> confirmed by that, <hi>Cor.</hi> 15. <hi>O Death, where is thy sting? O Hell, where is thy victory, &amp;c.</hi> in
+<pb n="4" facs="tcp:46298:3"/>the first place to our Saviors soul not left in Hell, applyed, nor his body in the earth to see corruption, accor<g ref="char:EOLhyphen"/>ding to the Psalm; But every one in his order, instanced as by the fruits of the earth: Touching which word its extent unto the Devil, the myste<g ref="char:EOLhyphen"/>ry not unknown; to <hi>Saul</hi> foreshewd he and his sons to morrow to be with him; a taste or token whereof had then by his falling all along, as shews was sore afraid, <hi>&amp;c.</hi> provided for him against the next day.</p>
+            <p>And according to the Scriptures, for proving the affirmative, The worlds general pardon, kept till last, like the good wine; This place for one, of <hi>Adam,</hi> the figure of him to come, saying thus, <hi>Wherefore, as by one man sin entred into the world, and
+<pb n="5" facs="tcp:46298:3"/>death by sin; and so deathpassed upon all men, &amp;c. Therefore as by the of<g ref="char:EOLhyphen"/>fence of one, &amp;c. so by the righteous<g ref="char:EOLhyphen"/>ness of one, &amp;c. Rom.</hi> 5. <hi>came upon all men, &amp;c.</hi> and he one able to distin<g ref="char:EOLhyphen"/>guish between the general and spe<g ref="char:EOLhyphen"/>cial, <hi>Cor.</hi> 5. argues, in short, the same point; <hi>And if all were dead, then dy<g ref="char:EOLhyphen"/>ed he for all:</hi> And to <hi>Timothy, God the Savior of All, especially of them that believe, who gave himself a ransom for all, a propitiation for our sins, not only, but for the whole worlds sins.</hi> And so much for these who by reason of the Law and several Statutes, have in<g ref="char:EOLhyphen"/>curred such penalties and forfei<g ref="char:EOLhyphen"/>tures to the whole world, therefore that sends forth these; <hi>That as in A<g ref="char:EOLhyphen"/>dam all dyed, so in Christ all are made alive,</hi> according to <hi>Cor.</hi> 15. and his
+<pb n="6" facs="tcp:46298:4"/>own promise, <hi>If I be lifted up, I shall draw all men to me;</hi> answerable to the angels first salute, <hi>Behold, tidings of great joy to all people;</hi> and the cry<g ref="char:EOLhyphen"/>ers Voyce, <hi>Behold the Lamb of God that taketh away the sins of the world.</hi>
+            </p>
+            <p>Concluding not some, but All, the whole degenerate mass of Angels and Men, pardoned that partake of the pit where no water is, or taste the second Death too, from whose blessedness (to wit) in the first re<g ref="char:EOLhyphen"/>surrection, who have their pa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, it de<g ref="char:EOLhyphen"/>tracts not, but is beyond measure an addition, to whō they but as the nu<g ref="char:EOLhyphen"/>merous commō sort in comparison.</p>
+            <p>Lastly to free this Larges from any tax that may befal in respect of such ample expressions.</p>
+            <p>Behold else where in penning
+<pb n="7" facs="tcp:46298:4"/>it, how cautious the same Apo<g ref="char:EOLhyphen"/>stle to the letter, saying, <hi>Now Abra<g ref="char:EOLhyphen"/>braham and his seed, &amp;c.</hi> he saith, <hi>Not seeds,</hi> of many, but as of one; <hi>And to thy seed:</hi> and again, <hi>Behold, I shew you a mystery, we shall not all sleep, but we shall all be changed</hi> (Thess.) And in every thing so) Hebrews, <hi>For in that he put all things under his feet, he left nothing that is not put under: but that he by the grace of God, should taste death for every man:</hi> as, <hi>O the height and depth of his Grace, for whom in his appointed time nothing is too difficult.</hi>
+            </p>
+            <p>And again, for a farther manife<g ref="char:EOLhyphen"/>station of his strictnes this way, <hi>Bre<g ref="char:EOLhyphen"/>thren, if it be but a mans covenant, yet if it be confirmed, no man disanulleth or addeth thereto:</hi> and yet this con<g ref="char:EOLhyphen"/>solation
+<pb n="8" facs="tcp:46298:5"/>of ours, how it is endeavor<g ref="char:EOLhyphen"/>ed to be hidden from us amongst the good seed, by tares sowed, by this blinde or envious age, bear witness, to whom the word <hi>Age</hi> such an un<g ref="char:EOLhyphen"/>welcom Guest how perverted, in that Thanksgiving Psalm, its golden burthen, <hi>For his mercy endures for an Age:</hi> Englished, <hi>For his mercy en<g ref="char:EOLhyphen"/>dures for Ever;</hi> which upon their words taken or believed, signifies without end reiterated so.</p>
+            <p>And lo, throughout the New Te<g ref="char:EOLhyphen"/>stament, this passes for current, <hi>Heb. By whom the worlds were made,</hi> when the truth of it, <hi>By whom the Ages were made,</hi> viz. <hi>Secula:</hi> Likewise in <hi>Jude</hi> closed with these words, <hi>To whom, &amp;c. In all Ages; And now, and in all Ages of Ages, Amen:</hi> By our
+<pb n="9" facs="tcp:46298:5"/>Doctors concluded or curtaild, <hi>To whom, &amp;c. for ever, Amen:</hi> of which false Brethrens Doctrine and do<g ref="char:EOLhyphen"/>ings more dangerous to the Truth, then the practice of open enemies: Heretofore moreover thus, <hi>Apocal.</hi> he saying, <hi>I am he, &amp;c. and behold, am alive for Ages of ages,</hi> Amen; <hi>and have the Keys of Death &amp; Hell:</hi> By whom (as though those Keys at their command) rendred, <hi>For evermore, Amen,</hi> at farthest signify<g ref="char:EOLhyphen"/>ing but Ages and farther, or from henceforth. Again, (<hi>Revelation</hi> the 14.) <hi>Et fumus, &amp;c. ascendet in secula seculorum,</hi> from age to age, from day to day; alluding in their being tormented without intermis<g ref="char:EOLhyphen"/>sion, and restless, to mettals refined those sulpherous smokes, yet who
+<pb n="10" facs="tcp:46298:6"/>continue the old Antichristian note, of extending these to a perpetuity or unlimited estate, being <hi>finit,</hi> taking upon them, above him, taken up in<g ref="char:EOLhyphen"/>to the third Heaven; <hi>Paul</hi> pressing no farther then <hi>What if God willing to shew his wrath, &amp;c.</hi> indured with long suffering, &amp;c. And why not then, <hi>What if God unwilling</hi> as when <hi>Moses</hi> desired to behold all his glo<g ref="char:EOLhyphen"/>ry) <hi>to make known all his mercy;</hi> or if pleased to shadow it under a term, not infinite, but determinable, law<g ref="char:EOLhyphen"/>ful shal it be therfore for them, when it was unlawful for the Apostle to utter the things he heard: Thus <hi>to take away without warrant,</hi> whose last charge <hi>to beware of it, Rev.</hi> 22. lest partake <hi>of those Plagues,</hi> which were they to endure but a moment,
+<pb n="11" facs="tcp:46298:6"/>enough to break in two the strong<g ref="char:EOLhyphen"/>est heart, or to distract: yet but as a Dream compar'd with the days of Heaven, although such horror to continue a thousand <hi>Methusalahs</hi> ages, and thus by such Addition continued of <hi>EVER</hi> and some<g ref="char:EOLhyphen"/>time <hi>NEVER,</hi> groaning un<g ref="char:EOLhyphen"/>der the burthen of misunderstan<g ref="char:EOLhyphen"/>ding for so many ages; not the word Age alone (as manifest) but this going for currant also, <hi>The Fire that never shalbe quencht.</hi> And <hi>the worm,</hi> &amp;c. <hi>Not onely alluding to Sodoms wilde fire, but by the insuing bidden to have salt in themselves: Also, to re<g ref="char:EOLhyphen"/>member Lots wife, so faithless, worthy to be made an example, commended unto them.</hi>
+            </p>
+            <p>VVhereas the <hi>Greek</hi> and <hi>Hebrew</hi>
+               <pb n="12" facs="tcp:46298:7"/>both agreeing (<hi>Mar.</hi> 9. <hi>Isaiah</hi> 66.) <hi>Where the fire is not quenched, and the worm dyeth not; Ignis non extinguitur,</hi> from one new Moon to another, or from Sabbath to Sabbath; unmind<g ref="char:EOLhyphen"/>ful of <hi>Pauls</hi> unable <hi>to contain himself, O the depth of the Riches both of the Wisdom and Knowledge of God, how unsearchable, who hath known his minde? &amp;c.</hi>
+            </p>
+            <p>So that either some design, like those Brethren who sometime upon a doubtful speech cast out by our Savior, presently gave out, <hi>That that Disciple should not dye:</hi> because re<g ref="char:EOLhyphen"/>plied, <hi>What if I will he tarry till I come;</hi> though in that it opposes the article of our Lords descending, <hi>&amp;c.</hi> a thing of more dangerous conse<g ref="char:EOLhyphen"/>quence; whence say they is no Re<g ref="char:EOLhyphen"/>demption:
+<pb n="13" facs="tcp:46298:7"/>by whom those torments were undergone; so sure as that wine and gaul prepared for him, mixt like Hope and Despair; witness that out<g ref="char:EOLhyphen"/>cry <hi>Psal.</hi> 88. <hi>O Lord my salvation, I have cryed day and night, I am so fast in prison I cannot get out: why abhor<g ref="char:EOLhyphen"/>rest thou my soul? I have stretched out my hands unto thee, &amp;c.</hi> True it is, <hi>Isa.</hi> 26. once have been true to the sence this far in the Margin thus, Heb. <hi>Rock of ages:</hi> translated, <hi>The everlasting strength;</hi> which word by way of terror sometime used, by them not having the Spirit, extend it to their <hi>Non plus ultra,</hi> now like the Decree of the <hi>Medes</hi> and <hi>Per<g ref="char:EOLhyphen"/>sians,</hi> though shewed to be errone<g ref="char:EOLhyphen"/>ous, nevertheless irrevocable, who bring us forth <hi>Hercules</hi> for <hi>Samson,
+<pb n="14" facs="tcp:46298:8"/>Ovid</hi> for <hi>David,</hi> and <hi>Seneca</hi> before <hi>Paul,</hi> &amp;c.</p>
+            <p>VVhereas <hi>the Kingdom of GOD speaking better things,</hi> then such straight passages testifying, <hi>In my Fathers house are many Mansions, one mystery infolding another,</hi> as <hi>Eze<g ref="char:EOLhyphen"/>kiels</hi> vision, <hi>A fire in the midst of the cloud.</hi> And, <hi>put the fire, lightning,</hi> &amp;c. so, <hi>wheel within wheel:</hi> Those Che<g ref="char:EOLhyphen"/>rubims their intricate work, inclo<g ref="char:EOLhyphen"/>sing the Mercy-seat, <hi>of whose King<g ref="char:EOLhyphen"/>dom shews there is no end; and they worthy to be heirs thereof; promised to be equal with the Angels, shall dye no more,</hi> (Luke 20.)</p>
+            <p>And, <hi>Psal. No end of his years, from everlasting to everlasting:</hi> Heb. <hi>indis<g ref="char:EOLhyphen"/>solvable, passes not from one to ano<g ref="char:EOLhyphen"/>ther, &amp;c.</hi> different from the King<g ref="char:EOLhyphen"/>dom
+<pb n="15" facs="tcp:46298:8"/>of Darkness, or like the Beasts <hi>Dan.</hi> 7. declaring <hi>a prolonging of life was given unto them, for a time and seasons;</hi> whose dominion taken a<g ref="char:EOLhyphen"/>way, or authority, as <hi>Jude</hi> gives to understand of those <hi>angels, re<g ref="char:EOLhyphen"/>served in everlasting chains under darkness, unto the judgement of the great day,</hi> against whom, namely the Devil, <hi>the angel Michael durst not bring railing accusation,</hi> only <hi>The Lord the rebuke thee,</hi> was to con<g ref="char:EOLhyphen"/>sider them, who had no more but so much belief, as served to deprive them of HOPE under such re<g ref="char:EOLhyphen"/>straint.</p>
+            <p>So with his secre<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Providence proceeding, the common Salvation hidden, like that Grace bestowed on the <hi>Gentiles,</hi> so long waited for,
+<pb n="16" facs="tcp:46298:9"/>alike held impossible, what if he, after <hi>Josephs</hi> reserved way, as he to<g ref="char:EOLhyphen"/>ward his untoward Brethren before made himself known who kept them in hold, questioned both for spies and theft; but correspondent to his silence she when running &amp; crying after him, at length as though but lost her labor; answered her, <hi>was not but to the lost sheep sent of the house of Israel;</hi> yet overcame him, obtained her suit, the <hi>Gentiles</hi> fore-run, deri<g ref="char:EOLhyphen"/>ving her title from <hi>Canaan,</hi> shewing <hi>Dogs ought not perish.</hi>
+            </p>
+            <p>Concluding the Prince of Peace; his Mercy seems rackt up in ashes of Despair, as it far'd with them so ma<g ref="char:EOLhyphen"/>ny days in such jeopardy that saw neither sun nor stars, for his servant <hi>Pauls</hi> cause; not a hair of their heads
+<pb n="17" facs="tcp:46298:9"/>perishing; came safe every one to land <hi>(Acts)</hi> much more for his own sake, will never reverse his own judgement against Law for any to do; having spoken it, Namely, for the womans seed to vanquish the Serpents power; and of such tri<g ref="char:EOLhyphen"/>umph to come, <hi>His leading captivity captive,</hi> to reduce every one to their former liberty: as what special bles<g ref="char:EOLhyphen"/>sing otherwise such a numerous ge<g ref="char:EOLhyphen"/>neration promised <hi>Abraham,</hi> much like that the Apostle speaks of him<g ref="char:EOLhyphen"/>self, else <hi>man of all creatures most mi<g ref="char:EOLhyphen"/>serable, were Redemption but for a handful,</hi> as though <hi>All souls are not his (Ezek.)</hi> whom <hi>Moses</hi> calls, <hi>The God of the Spirits of all Flesh.</hi>
+            </p>
+            <p>VVhose last these, <hi>Woman, behold thy son, figur'd in Adam and the Ser<g ref="char:EOLhyphen"/>pent
+<pb n="18" facs="tcp:46298:10"/>both; who then to his mo her made his first word good;</hi> finishing with <hi>Fa<g ref="char:EOLhyphen"/>ther forgive them every one.</hi>
+            </p>
+            <p>
+               <hi>Then mercy extending to thousands wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hout number,</hi> exceeds so far his hate, <hi>but unto the third and fourth ge<g ref="char:EOLhyphen"/>neration;</hi> accordingly who came into the world, made to wait four thou<g ref="char:EOLhyphen"/>sand years near, embraces no less then as wide as east from the west, &amp;c. So far be it from him, for our first Parents first offence surprised in state of Innocency, to lay it all upon their Progeny, as they better able to discharge this obligation, kept on foot still, when those two debtors be<g ref="char:EOLhyphen"/>cause had nothing to pay, frankly both forgiven, both contrary to the New and old Law, the childrens teeth for the fathers default set on
+<pb n="19" facs="tcp:46298:10"/>edge; whereof the Lord said, there was no more occasion to use any such harsh proverb, &amp;c. <hi>(Ezek.)</hi> who may be merciful as he pleases, rather then unjust in the least.</p>
+            <p>Making such presidents of no force (the day of Iudgements figure) in<g ref="char:EOLhyphen"/>tolerable sinful <hi>Sodom</hi> for so few their sakes which had been pardond, prest <hi>Shall not the Judge of all the earth do right?</hi> or <hi>shall the most high be impla<g ref="char:EOLhyphen"/>cable against Dust and Ashes, to con<g ref="char:EOLhyphen"/>tend with a Worm, an earthen vessel? O from him far be it.</hi>
+            </p>
+            <p>And so, <hi>Dost thou well to be angry Jonas,</hi> pleads himself, the cause, how children ought not for the Parents to suffer, contradicts <hi>Moses</hi> Law, in regard of <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, which that King, the children of the Murtherers of his
+<pb n="20" facs="tcp:46298:11"/>father, put them not to death (<hi>Kings</hi> 2.) so <hi>Ninevehs</hi> to be drownd in forgetfulness neither, in tender con<g ref="char:EOLhyphen"/>sideration of a world of Infants par<g ref="char:EOLhyphen"/>dond all; the whole <hi>worlds</hi> figure <hi>Jo<g ref="char:EOLhyphen"/>nas</hi> being his, shewing <hi>Summum jus, summa injuria, Alzas knowing not what they do</hi> without special grace, as all doing they know not what.</p>
+            <p>And thus much concerning that principle, not of more Antiquity then Truth, <hi>That every thing returns to the place from whence it came:</hi> so then, <hi>if Dust thou art, to Dust re<g ref="char:EOLhyphen"/>turn.</hi>
+            </p>
+            <p>Much more in point of mercy, where goodness so immense to re<g ref="char:EOLhyphen"/>duce the same, as behold saw every thing very good at the first, &amp;c. <hi>Gen.</hi>
+            </p>
+            <p>Lastly, to breath the breath of
+<pb n="21" facs="tcp:46298:11"/>Life into these strait passages: <hi>Ju<g ref="char:EOLhyphen"/>das</hi> called, <hi>The Son of Perdition,</hi> granted <hi>good for that man he had ne<g ref="char:EOLhyphen"/>ver been born,</hi> yet extends not to de<g ref="char:EOLhyphen"/>prive him of happiness in that he had a being, though unborn; as <hi>Job</hi> for example, notwithstanding <hi>blames the knees that prevented him,</hi> which concerns at all not his conception, or the time of life, though bestows imprications alike, on <hi>the night where<g ref="char:EOLhyphen"/>in he was conceived,</hi> as upon his Na<g ref="char:EOLhyphen"/>tivity, to be blotted out of the Ka<g ref="char:EOLhyphen"/>lender, yet unto annihilation ex<g ref="char:EOLhyphen"/>tends not, harbors no such vain wish, <hi>Job</hi> 3.</p>
+            <p>Also he on the left hand, that thief, by saying to the other, <hi>This day be thou with me, &amp;c.</hi> a limited day, im<g ref="char:EOLhyphen"/>plies another day for him, <hi>(Hebr.)</hi>
+               <pb n="22" facs="tcp:46298:12"/>that author but after his order shew<g ref="char:EOLhyphen"/>ing, in that hee saith anew, <hi>He hath made the first void,</hi> in speaking of the Covenant, as in another place of in<g ref="char:EOLhyphen"/>terring in the <hi>Rest;</hi> a certain day in<g ref="char:EOLhyphen"/>sists thereon at large.</p>
+            <p>So again for that sin, forgiven nei<g ref="char:EOLhyphen"/>ther here, nor in the other world, but punished in both: <hi>He that speaks a<g ref="char:EOLhyphen"/>gainst the holy Ghost, or the holy Breath or Breathings, but shall be in danger, &amp;c.</hi> First, who knows how many worlds are to come; as <hi>Peter</hi> speak<g ref="char:EOLhyphen"/>ing of that before the Deluge, calls it, <hi>The world that THEN WAS.</hi>
+            </p>
+            <p>And for the word <hi>Danger</hi> what it imports who knows not (to wit) a possibility of escape.</p>
+            <p>Besides his pointing to <hi>Peter</hi> and <hi>Judas,</hi> The fall of the one through
+<pb n="23" facs="tcp:46298:12"/>frailty, as <hi>Adam;</hi> the other of arro<g ref="char:EOLhyphen"/>gancy, as the Devil: likewise shews who opposes the holy Spirit (in the original) <hi>Breathings,</hi> or <hi>holy wind:</hi> He that seeks to stop that breath, a mill-stone a fitter ornament for him; better first had been his own Exe<g ref="char:EOLhyphen"/>cutioner: <hi>In those days suppos'd though or held presumption, to expect gifts of such high nature.</hi>
+            </p>
+            <p>And so for correcting the severi<g ref="char:EOLhyphen"/>ty of this Parable too, shewing <hi>Of a fixt space between them two</hi> (<hi>Luk.</hi> 16.) no other then a prefixt space of time, termed by them a fixt Gulf impas<g ref="char:EOLhyphen"/>sible, otherwise in respect of place but unnecessary, which moves not to say fixt, more proper for Times perpetual motion; where moreover touching the type of his finger dipt,
+<pb n="24" facs="tcp:46298:13"/>&amp;c. as points to <hi>Hagar</hi> who had her eyes opened, saw a well of water, calling it, <hi>Thou God seest me;</hi> The truth of it, The Mystery of Redem<g ref="char:EOLhyphen"/>ption out of Hell, to be clearly set forth foreshews, and from <hi>Abraham</hi> calling him Son, also, and he him fa<g ref="char:EOLhyphen"/>ther, thus but a line of Mercy cra<g ref="char:EOLhyphen"/>ving; from this <hi>Lazarus</hi> no ordinary Beggar; as those Allegorical Ulcers, or wounds, but answerable to that of <hi>Abrahams</hi> bosom: likewise that Rich man, one in some eminent Office, calling Brothers, who it seems dyed of a Fever, or else some one craving a pardon for his life; one in <hi>some emi<g ref="char:EOLhyphen"/>nent Office, both by his Robe and Cal<g ref="char:EOLhyphen"/>ling, them his five Brethren.</hi>
+            </p>
+            <p>The sum of it in part, who so per<g ref="char:EOLhyphen"/>forms not without compulsion pe<g ref="char:EOLhyphen"/>nance
+<pb n="25" facs="tcp:46298:13"/>here, makes it good there: And thus making no long dwelling or commentaries on evident things. As for the word <hi>Chasma</hi> (or a <hi>Gulf</hi>) a Learned author, though upon an other occasion borrowing this figu<g ref="char:EOLhyphen"/>rative word, hereupon applies it thus; <hi>A Chasma, or void space of time, in the mention of some inter reign: GOODWIN by name.</hi>
+            </p>
+            <p>And as suppos'd not to be avoided of <hi>a purgatory appointed for the Saints after this life, being both Birds of a feather;</hi> briefly thus, founded on this and the like places, <hi>Verily thou shalt not come forth thence, till paid the ut<g ref="char:EOLhyphen"/>most mite:</hi> The verity of it, <hi>a certain moment, or signifying till the last minute expired, as the godly become here Ex<g ref="char:EOLhyphen"/>iles in this world, so on the other side till
+<pb n="26" facs="tcp:46298:14"/>Gods wrath appeased, they excluded his presence under Excommunication.</hi>
+            </p>
+            <p>VVhich Article of the Christian Faith famous <hi>ORIGEN</hi> un<g ref="char:EOLhyphen"/>derstood well, of whom the worst they could say was, <hi>That when he wrote well, as he went before all men, so no man did worse when he wrote ill;</hi> from whose judgement other Fa<g ref="char:EOLhyphen"/>thers erring, were inforced to erect a Purgatory, being faln between this <hi>Sylla</hi> and <hi>Charybdis.</hi>
+            </p>
+            <p>VVhereto a word adding Ex<g ref="char:EOLhyphen"/>hortative from the parable prece<g ref="char:EOLhyphen"/>ding (<hi>Luke</hi> 15.) <hi>of his unnatural pre<g ref="char:EOLhyphen"/>ferring a Calf before his own Brother, would not be drawn to see him. And those Laborers possest with a like spirit of Envie:</hi> Of such evil aspect mutining and grudging that nothing at all to
+<pb n="27" facs="tcp:46298:14"/>damage them, like that cutthroat for another serv'd in the same kinde, <hi>without compassion on his fellow ser<g ref="char:EOLhyphen"/>vant, points to prison, &amp;c.</hi>
+            </p>
+            <p>A Lesson for his Disciples not un<g ref="char:EOLhyphen"/>seasonable, void of spleen neither a<g ref="char:EOLhyphen"/>gainst the other twain; a disease reig<g ref="char:EOLhyphen"/>ning in <hi>Esaus</hi> world: <hi>Jonas</hi> was en<g ref="char:EOLhyphen"/>tred into it, about a straw matter as angry, by whom a goard more taken into consideration, then a City of great and small; concerning which uncharitableness in the highest de<g ref="char:EOLhyphen"/>gree, and unchristian belief thus to judge: <hi>Lo that parable of the day of judgements sentence, where behold charged with nothing besides, rewarded with</hi> Lex talionis, <hi>Go ye, &amp;c.</hi> (<hi>Mat.</hi> 25.) <hi>in that ye did it not to the least, &amp;c.</hi> sometime my sad companions,
+<pb n="28" facs="tcp:46298:15"/>those heavie prisoners, when <hi>sweat those clods of blood, in no small measure in that Garden or orchard, encountring no inferior Temptations.</hi>
+            </p>
+            <p>Concluding with this, a Remedy for all Diseases, <hi>The end at hand, even Time aged,</hi> 1647. <hi>stoln away, at<g ref="char:EOLhyphen"/>taind to</hi> Noahs <hi>days;</hi> so that no great danger in <hi>leaving the door open, or for dismissing the guard,</hi> hitherto fortified under pretence of withstanding pre<g ref="char:EOLhyphen"/>sumption, with illegal constructions and terrification of that uncharitable nature: wherfore pray'd, away with such sinister suspition any longer in defence of it, being arrived the port; as <hi>Behold the appointed time of the Son of mans coming: The Ancient of days holding the Seven Stars in his right hand, of no small moment a mysterie, if
+<pb n="29" facs="tcp:46298:15"/>his word to be taken or believed</hi> (<hi>Apoc.</hi> 1.) before whose Throne <hi>the Dagons of the Earth now prostrate;</hi> even Ty<g ref="char:EOLhyphen"/>rant time also resigning all his rights and priviledges with them; agree<g ref="char:EOLhyphen"/>able with that Rule, <hi>When ceaseth the the cause of the Law, then ceaseth the Law it self also:</hi> of which Time, namely the end, <hi>Enoch the seventh from Adam</hi> (as by <hi>Jude</hi> foreshewed) he being a figure of it prophesied, <hi>was not, God took him,</hi> after had ful<g ref="char:EOLhyphen"/>filled <hi>three hundred threescore and five years,</hi> according to the days of the year, walked here no longer: The first prophet foreseeing their hard speeches, accompanied with hard<g ref="char:EOLhyphen"/>ness of belief, whom the Lord will convince howsoever, who <hi>like Kore and his companions, not having the spi<g ref="char:EOLhyphen"/>rit,
+<pb n="30" facs="tcp:46298:16"/>despise Prophesie</hi> not onely, but take upon them to contradict the express VVord: shewing that the first fruits and root be holy, also the branches and whole lump. So that in stead of his Spirit, the last of the old prophets, and the first of the new: <hi>John the Baptist,</hi> upon them have <hi>Balaams</hi> spirit, witness <hi>Timo<g ref="char:EOLhyphen"/>thy, He a ransom for all,</hi> as <hi>O Hell, I will be thy destruction, &amp;c.</hi> In due time to be testified; and <hi>John, a pro<g ref="char:EOLhyphen"/>pitiation for the whole world,</hi> as instan<g ref="char:EOLhyphen"/>ced afore, and proved: The which maintaind by them to be the whole for the part, spoke by a figure, say they, like that of <hi>All Jury went out to John,</hi> and his decree <hi>Cesars, that went forth from all the world to be taxt</hi> (Luk. &amp;c.) where the one spoken
+<pb n="31" facs="tcp:46298:16"/>after the vulgar way, the other in high strain of Kings.</p>
+            <p>But this <hi>rara Avis,</hi> one Swallow makes no Summer; rather making choice to be abrupt then farther pro<g ref="char:EOLhyphen"/>lix, supposing ye will imitate the cruel Soldiers, resolved to kill the prisoners, or be worse then their ca<g ref="char:EOLhyphen"/>ptain, (<hi>Acts</hi> 27.) or more inexora<g ref="char:EOLhyphen"/>ble then his furious Majesty of great <hi>Babylon,</hi> revoking his hasty sen<g ref="char:EOLhyphen"/>tence or lowd Proclamations, be<g ref="char:EOLhyphen"/>yond expectation all of them, when saved by <hi>Daniel</hi> the prophet, so pre<g ref="char:EOLhyphen"/>served with his companions, &amp;c. with whom, <hi>Blessed bee the Lords Name, Aseculo &amp; usque in seculum, &amp; ipse mutat tempora &amp; aetates,</hi> (Dan. 2.21.) Leaving them to swim for their Lives, or at least will not
+<pb facs="tcp:46298:17"/>gainsay a possibility of escape for these Captive brethren, wh<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <hi>A<g ref="char:EOLhyphen"/>braham</hi> refuses not the stile of <hi>Sons,</hi> shall present these not unlike the broken boards or pieces of the ship for the present. To which passages or New song, the end of which <hi>Be<g ref="char:EOLhyphen"/>hold I make all things new: Let every creature in Heaven, and Earth, and Sea, and under the Earth, say</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46298:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
